@@ -1,0 +1,15 @@
+@charset "utf-8";
+/* CSS Document */
+
+.news-sub, .blog-sub{
+	width: 1000px;
+	margin: auto;
+}
+dt{
+	padding-top: 15px;
+	color: #00B42A;
+}
+dd{
+	border-bottom: 1px solid #ccc;
+}
+
